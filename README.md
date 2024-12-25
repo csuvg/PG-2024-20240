@@ -43,7 +43,7 @@ Para ejecutar el sistema, sigue los pasos:
 - Los scripts han sido diseñados para capturar tráfico en tiempo real. Asegúrate de contar con permisos administrativos y una interfaz de red activa para pruebas.
 
 ## Demo
-En la carpeta `/demo/` se encuentra un video que muestra el sistema en acción. Accede a él para ver cómo funciona el proyecto en un entorno controlado.
+En la carpeta `/demo/` se encuentra un archivo .zip que contiene el video que muestra el sistema en acción. Accede a él para ver cómo funciona el proyecto en un entorno controlado.
 
 ## Informe Final
 El informe final del proyecto está disponible en la carpeta `/docs/` bajo el nombre `Informe.pdf`. Este documento detalla el desarrollo, los resultados y las conclusiones del trabajo.

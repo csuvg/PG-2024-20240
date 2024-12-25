@@ -15,12 +15,16 @@ Con el incremento del 13% en la presencia de malware en entornos empresariales t
    git clone <url_del_repositorio>
    cd <nombre_del_repositorio>
    ```
-2. Configurar el módulo 1 (`src/Modulo1.py`):
+2. Instalar las dependencias del archivo `requirements.txt`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Configurar el módulo 1 (`src/Modulo1.py`):
    - Indicar el nombre del archivo donde se guardarán los datos capturados.
    - Especificar la cantidad de paquetes a capturar.
    - Seleccionar la interfaz de red a utilizar (e.g., Wi-Fi, Ethernet).
 
-3. Configurar el módulo 2 (`src/Modulo2.ipynb`):
+4. Configurar el módulo 2 (`src/Modulo2.ipynb`):
    - En la quinta celda, definir el tipo de archivo a analizar (capturado o archivo de pruebas).
 
 ### Ejecución de la Aplicación
@@ -51,4 +55,3 @@ El informe final del proyecto está disponible en la carpeta `/docs/` bajo el no
 
 ## Autor
 Proyecto desarrollado como parte del trabajo de graduación de Diego José Franco Pacay, dentro de la Universidad Del Valle de Guatemala.
-
